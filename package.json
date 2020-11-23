@@ -1,0 +1,13 @@
+{
+  "name": "fm-fylo-challenge",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "Aron Høyer (https://aronhoyer.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
